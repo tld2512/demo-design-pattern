@@ -1,4 +1,4 @@
-package main.java.com.demo.dp.creational.singleton;
+package main.java.com.demo.dp.creational.singleton.example;
 
 public class TestSingleton {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package main.java.com.demo.dp.creational.factorymethod;
+package main.java.com.demo.dp.creational.factorymethod.example;
 
 public class VehicleFactory {
     private VehicleFactory() {
